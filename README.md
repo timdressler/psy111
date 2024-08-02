@@ -8,7 +8,7 @@ Course materials for the psy111 seminar of the Neurocognitive Psychology Master'
 
 ## Local usage
 
-Running the book locally is possible by opening the `_build/html/index.html` file in a browser. The *.ipynb* notebooks for the exercises can either be used locally or through google colab.
+Running the book locally is possible by opening the `_build/html/index.html` file in a browser. The *.ipynb* notebooks for the exercises can either be used locally or through google colab. Test
 
 If the `_build/` folder is not available or if you want to create a modified version, you can also build the book from source:
 
